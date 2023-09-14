@@ -2038,7 +2038,7 @@ ul.actions li:first-child {
 }
 
 .box.box4 {
-	padding: 1em 2em 1em 2em !important;
+	padding: 1em 2em !important;
 }
 
 .box.box4 .box-s {
@@ -2061,7 +2061,7 @@ ul.actions li:first-child {
 }
 
 .box5 {
-	padding: 1em 2em 1em 2em !important;
+	padding: 1em 2em !important;
 	text-align: center;
     width: fit-content;
     display: inline-block;
@@ -2474,7 +2474,7 @@ body>article {
 	.button {
 		text-align: center;
 		font-size: 1.2em;
-		width: 100%;
+		width: 80%;
 		padding: 1em 0 1em 0;
 	}
 
@@ -2485,6 +2485,7 @@ body>article {
 	.button.large {
 		font-size: 1.2em;
 		letter-spacing: 0;
+		padding: 0.5em 0;
 	}
 
 	/* Social */
@@ -2524,7 +2525,6 @@ body>article {
 
 	.box {
 		padding: 30px 20px 30px 20px;
-		margin: 0 0 20px 0 !important;
 	}
 
 	.box h3 {
@@ -2555,6 +2555,14 @@ body>article {
 		margin-right: auto !important;
 	}
 
+	.box.box4 {
+		text-align: center;
+	}
+
+	.box7 img {
+		width: 90%;
+	}
+
 	/* Wrappers */
 
 	.wrapper {
@@ -2565,7 +2573,7 @@ body>article {
 	/* Nav */
 
 	#nav {
-		height: 44px;
+		height: 85px;
 		line-height: 44px;
 	}
 
